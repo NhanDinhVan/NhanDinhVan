@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Nhandinh</h1>
-<h3 align="center">I am a student majoring in Network Information Security.</h3>
+<h3 align="center">I'm a student majoring in Network Information Security.</h3>
 
 - 🌱 I’m currently learning **Network Security.**
 
