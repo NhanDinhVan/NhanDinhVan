@@ -1,8 +1,8 @@
 <img align="center" alt="coding" width="1440" src="https://camo.githubusercontent.com/0bc88fe1a37c792f8a62e1b770b0b39e886405c1043d59a43fd0a7c27c2688b2/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966" >
 
 
-<h1 align="center">Hi 👋, I'm Nhandinh</h1>
-<h3 align="center">I'm a student majoring in Network Information Security.</h3>
+<h2 align="center">Hi 👋, I'm Nhandinh</h2>
+<h4 align="center">I'm a student majoring in Network Information Security.</h4>
 
 - 🌱 I’m currently learning **Network Security.**
 
