@@ -3,7 +3,7 @@
 <img align="center" alt="coding" width="1440" src="https://giffiles.alphacoders.com/158/158777.gif" >
 
 
-<h2 align="center">Hi 👋, I'm Nhandinh</h2>
+<h2 align="center">Hi there 👋</h2>
 <h4 align="center">I'm a student majoring in Network Information Security.</h4>
 
 - 🌱 I’m currently learning **Network Security.**
