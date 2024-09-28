@@ -1,6 +1,6 @@
 <!-- Level 3: Add custom code -->
 
-# 👋 Hi, I'm Nhan!
+# 👋 Hi!
 👩🏻‍💻 My aim is to build a career as a Software Engineer.<br/>
 👩🏻‍🎓 Studied Information Security & Computer Network at the Vietnam–Korea University of Information and Communication Technology. <br/>
 🎨 I practice data structures and algorithms on [LeetCode](https://leetcode.com/problemset/) and [GeeksforGeeks](https://www.geeksforgeeks.org/).<br/>
