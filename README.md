@@ -27,7 +27,9 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 <br/>
+<!--
 ![GraphQL](https://img.shields.io/badge/-GraphQL-%2338B2AC?style=for-the-badge&logo=graphql&logoColor=white)
+-->
 ![MySQL](https://img.shields.io/badge/-MySQL-E10098?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLServer](https://img.shields.io/badge/-SQLServer-3670A0?style=for-the-badge&logo=sqlserver&logoColor=white)
 <br/>
