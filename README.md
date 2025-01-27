@@ -1,4 +1,4 @@
-# Hi all, I am NhanDinh, Student at Vietnam–Korea University of Information and Communication Technology – VKU !
+Hi all, I am NhanDinh, Student at Vietnam–Korea University of Information and Communication Technology – VKU !
 
 
 <div style="display: inline_block"><br>
