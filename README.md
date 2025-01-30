@@ -1,4 +1,4 @@
-<h2 class="gradient-text">Hi all, I am NhanDinh, Student at Vietnam–Korea University of Information and Communication Technology – VKU !</h2>
+<h2 class="gradient-text">Hi all, I am a student at Vietnam–Korea University of Information and Communication Technology – VKU !</h2>
 
 <div style="display: inline_block"><br>
    <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
