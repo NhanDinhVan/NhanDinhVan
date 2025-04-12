@@ -2,8 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=NhanDinhVan's%20GitHub&textBg=false&reversal=false&fontColor=white" />
 </div>-->
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-
+<!--<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+-->
 <!-- Tech Stacks -->
 <div style="flex: 1; min-width: 300px; text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
