@@ -1,6 +1,6 @@
-<div align="center">
+<!--<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=NhanDinhVan's%20GitHub&textBg=false&reversal=false&fontColor=white" />
-</div>
+</div>-->
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
 
