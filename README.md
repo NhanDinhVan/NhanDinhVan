@@ -24,6 +24,7 @@
    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
    <img src="https://img.shields.io/badge/Networking-gray?style=for-the-badge&logo=cisco&logoColor=white">
    <img src="https://img.shields.io/badge/Zabbix-EE0000?style=for-the-badge&logo=Zabbix&logoColor=white">
+   <img src="https://img.shields.io/badge/LibreNMS-f7f7f7?style=for-the-badge&logo=LibreNMS&logoColor=white">
    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
    <img src="https://img.shields.io/badge/PostgreSQL-405c6d?style=for-the-badge&logo=PostgreSQL&logoColor=white">
    <img src="https://img.shields.io/badge/SQLServer-white?style=for-the-badge&logo=SQLServer&logoColor=white">
