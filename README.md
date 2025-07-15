@@ -30,6 +30,7 @@
    <img src="https://img.shields.io/badge/SQLServer-white?style=for-the-badge&logo=SQLServer&logoColor=white">
    <img src="https://img.shields.io/badge/Prisma-red?style=for-the-badge&logo=Prisma&logoColor=white">
    <img src="https://img.shields.io/badge/TypeORM-blue?style=for-the-badge&logo=TypeORM&logoColor=white">
+   <img src="https://img.shields.io/badge/VirtualMachine-white?style=for-the-badge&logo=VirtualMachine&logoColor=white">
   </div>
 </div>
 
