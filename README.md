@@ -1,8 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=gradient&text=Software%20Engineer%20%7C%20AI%20Enthusiast&textBg=false&reversal=false&fontSize=40&fontColor=#RRGGBB&" />
 </div>
-
-
 <p align="center">
   <img src="https://img.shields.io/badge/Java-f7f7f7?style=for-the-badge&logo=Java&logoColor=red" />
   <img src="https://img.shields.io/badge/SpringBoot-6aad3d?style=for-the-badge&logo=SpringBoot&logoColor=red" />
